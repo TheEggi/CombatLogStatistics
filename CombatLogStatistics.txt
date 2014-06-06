@@ -1,0 +1,17 @@
+## Title: CombatLogStatistics
+## APIVersion: 100003
+## Author: Zeakfury
+## OptionalDependsOn: LibAddonMenu-1.0
+
+## SavedVariables: FCLText
+
+LibStub\LibStub.lua
+LibAddonMenu-1.0\LibAddonMenu-1.0.lua
+
+Combat Log Statistics.lua
+FCLMeters.lua
+FCLSettings.lua
+CLSMenu.lua
+bindings.xml
+FTCCombatLog.xml
+CLSChatTab.lua
